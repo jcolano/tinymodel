@@ -18,16 +18,29 @@ A Tiny Model is a paradigm shift in machine learning, emphasizing compactness an
 - Suitable for applications where minimizing computational overhead is crucial.
 - Perfect for researchers and hobbyists with limited access to high-end computational resources.
 
+### Usage
+
+TinyModel currently supports completion and Q&A models trained on philosophy books and classic literature.
+
+
+### Contributing
+
+Contributions to TinyModel are welcome. Please read the contributing guidelines to get started.
+
+### License
+
+TinyModel is released under the MIT License.
+
+### Contact
+
+For questions or feedback, contact Juan Olano at jcolano@teams.us
+
 ## Installation
 
 Install TinyModel using pip:
 
 ```bash
 pip install tinymodel
-
-### Usage
-
-TinyModel currently supports completion and Q&A models trained on philosophy books and classic literature.
 
 ### Example usage:
 
@@ -55,14 +68,3 @@ print(philosophy_response)
 print(literature_response)
 
 
-### Contributing
-
-Contributions to TinyModel are welcome. Please read the contributing guidelines to get started.
-
-### License
-
-TinyModel is released under the MIT License.
-
-### Contact
-
-For questions or feedback, contact Juan Olano at jcolano@teams.us
