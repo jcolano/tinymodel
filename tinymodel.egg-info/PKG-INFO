@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: tinymodel
+Version: 0.1.0
+Summary: A small model for AI completions
+Home-page: https://github.com/jcolano/tinymodel
+Author: Juan Olano
+Author-email: jcolano@teams.us
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# TinyModel
+
+TinyModel is a lightweight Python package for AI model completions.
+
+## Installation
+
+Install TinyModel using pip:
+
+```bash
+pip install tinymodel
